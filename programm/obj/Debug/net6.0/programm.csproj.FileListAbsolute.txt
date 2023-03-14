@@ -1,0 +1,15 @@
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+C:\Geek brains\Final_Work\programm\bin\Debug\net6.0\programm.exe
+C:\Geek brains\Final_Work\programm\bin\Debug\net6.0\programm.deps.json
+C:\Geek brains\Final_Work\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+C:\Geek brains\Final_Work\programm\bin\Debug\net6.0\programm.dll
+C:\Geek brains\Final_Work\programm\bin\Debug\net6.0\programm.pdb
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.dll
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\refint\programm.dll
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.pdb
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
+C:\Geek brains\Final_Work\programm\obj\Debug\net6.0\ref\programm.dll
